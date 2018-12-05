@@ -23,6 +23,7 @@ twitter_username:    mdolon
 github_username:     mdolon
 instagram_username:  instamonj
 linkedin_username:     mdolon
+google_analytics: "UA-2211829-2"
 
 # Build settings
 markdown: kramdown
