@@ -6,7 +6,7 @@ layout: home
 ---
 
 {%- include image.html
-  img="/assets/img/profile-01.jpg"
+  img="assets/img/profile-01.jpg"
   title="Me at a wedding in 2017" -%}
 
 #### I'm a software engineer living in New York City.
