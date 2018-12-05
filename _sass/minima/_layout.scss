@@ -342,7 +342,7 @@
 
   .download-button {
     display: inline-block;
-    max-width: 200px;
+    width: 210px;
     background: #eee;
     border: 2px solid #ddd;
     padding: 10px;
@@ -350,6 +350,12 @@
 
     strong {
       display: block;
+    }
+
+    img {
+      float: left;
+      margin: 0 10px 0 0;
+      width: 42px;
     }
   }
 }
