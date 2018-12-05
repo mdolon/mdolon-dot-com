@@ -3,8 +3,8 @@ layout: page
 title: Reading List
 permalink: /reading-list/
 ---
-I'm a firm believer that reading the most effective means of information
-consumption (at least until neural links are a thing). While my book list
+I'm a firm believer that reading (and education, more broadly) has the most
+profound and lasting impact in advancing human civilization. While my book list
 is not nearly as comprehensive as others, I thought it may be interesting
 to share what I have on my shelf.
 
