@@ -380,12 +380,12 @@ dl.timeline {
     padding-top: 5px;
 
     &:before {
-      @include relative-font-size(1.75);
+      @include relative-font-size(0.8);
       position: absolute;
-      top: -4px;
-      left: -20px;
-      content: "▫";
-      color: #666;
+      top: 8px;
+      left: -21px;
+      content: "○";
+      color: #777;
     }
   }
   dd {
@@ -396,4 +396,18 @@ dl.timeline {
 
 .colophon-dash {
   color: #aaa;
+}
+
+.show-sm {
+  display: none;
+}
+
+@include media-query($on-palm) {
+  .hide-sm {
+    display: none;
+  }
+
+  .show-sm {
+    display: inline-block;
+  }
 }
