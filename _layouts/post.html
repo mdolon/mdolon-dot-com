@@ -23,5 +23,16 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <div class="colophon">
+    <div class="colophon-dash">&mdash;</div>
+    I'd love to hear your thoughts. Please feel free to
+    {%- if site.email -%}
+      &nbsp;<a class="u-email" href="mailto:{{ site.email }}">email me</a>&nbsp;
+    {%- endif -%}
+    {%- if site.twitter_username -%}
+     or <a href="http://twitter.com/home/?status=@{{ site.twitter_username| cgi_escape | escape }} {{ page.url | prepend: site.url }}">respond with a Tweet</a>
+    {%- endif -%}.
+  </div>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

@@ -88,6 +88,16 @@ li {
   }
 }
 
+dl {
+  > dt {
+    font-weight: 600;
+  }
+
+  > dd {
+    margin-bottom: 10px;
+  }
+}
+
 
 
 /**
