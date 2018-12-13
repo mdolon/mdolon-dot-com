@@ -48,7 +48,7 @@ procrastinate in any number of ways.
 #### What I'd like to improve
 
 Other than being more consistent with my morning routines, I'd like to make the
-make the following adjustments over the next couple of months:
+following adjustments over the next couple of months:
 
 - Wake up an hour earlier (a one hour shift in this routine would be amazing)
 - Dedicate at least 10 minutes for meditation / self-reflection
