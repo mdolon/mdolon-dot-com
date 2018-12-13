@@ -16,9 +16,10 @@ layout: home
   I'm passionate about education, healthcare, and leveling the playing field.
 </h4>
 <br />
-When I'm not working, you'll find me playing guitar, running, surfing,
+When I'm not working, you'll find me playing guitar, [running][0], surfing,
 snowboarding, or generally spending time outside of my apartment.
 
-The best way to get in touch with me is via email: [mdolon@gmail.com](mailto:mdolon+com@gmail.com)
+The best way to get in touch with me is via email: [mdolon@gmail.com][1]
 
-[0]: https://www.usertesting.com/
+[0]: https://www.strava.com/athletes/monji
+[1]: mailto:mdolon+com@gmail.com
