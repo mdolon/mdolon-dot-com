@@ -3,14 +3,11 @@ layout: page
 title: Reading List
 permalink: /reading-list/
 ---
-I'm a firm believer that reading (and education, more broadly) has the most
-profound and lasting impact in advancing human civilization. While my book list
-is not nearly as comprehensive as others, I thought it may be interesting
-to share what I have on my shelf.
+While my book list is not nearly as comprehensive as others, I thought it may be
+interesting to share what I have on my shelf.
 
-I've purchased the following books over the last few years. I've read most
-of these, and several are classics from high school that I occasionally like
-to reread.
+I've purchased the following books over the last few years and have read most.
+Several are classics from high school that I occasionally like to reread.
 
 - [Born a Crime: Stories from a South African Childhood](https://www.amazon.com/Born-Crime-Stories-African-Childhood/dp/1473635306/ref=sr_1_1?ie=UTF8&qid=1543990150&sr=8-1&keywords=born+a+crime&tag=shopsuey1-20) (Trevor Noah)
 - [When Breath Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/ref=sr_1_1?ie=UTF8&qid=1543990225&sr=8-1&keywords=when+breath+becomes+air&tag=shopsuey1-20) (Paul Kalanithi)
