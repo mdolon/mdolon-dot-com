@@ -26,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  -webkit-font-smoothing: antialiased;
 }
 
 
@@ -39,7 +40,6 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
-
 
 
 /**
@@ -115,6 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
+  font-weight: 500;
 
   &:visited {
     color: darken($brand-color, 15%);
@@ -149,6 +150,11 @@ blockquote {
   > :last-child {
     margin-bottom: 0;
   }
+}
+
+
+strong {
+  font-weight: 600;
 }
 
 

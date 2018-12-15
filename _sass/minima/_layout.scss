@@ -1,4 +1,12 @@
 /**
+ * Colors
+ */
+.red {
+  color: rgb(200, 0, 0);
+}
+
+
+/**
  * Site header
  */
 .site-header {
@@ -43,7 +51,11 @@
       margin-right: 20px;
     }
 
-    &.active {
+    &:hover {
+      text-decoration: none;
+    }
+
+    &.active, &:hover {
       border-bottom: 1px solid #ccc;
     }
   }
@@ -203,7 +215,7 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  font-weight: 500;
 }
 
 .post-list {
@@ -221,8 +233,8 @@
 }
 
 .post-link {
+  @include relative-font-size(1.1);
   display: block;
-  @include relative-font-size(1.2);
 }
 
 
@@ -235,9 +247,10 @@
 }
 
 .post-title {
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.8);
   line-height: 1.2;
   margin-bottom: 5px;
+  font-weight: 600;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -249,6 +262,11 @@
 
   h2, h3, h4, h5 {
     margin-top: $spacing-unit;
+    font-weight: 500;
+
+    em {
+      font-weight: 500;
+    }
   }
 
   h2 {
@@ -274,6 +292,14 @@
       @include relative-font-size(1.125);
     }
   }
+
+  p {
+    margin-bottom: $spacing-unit * 0.75;
+
+    &.lead {
+      @include relative-font-size(1.2);
+    }
+  }
 }
 
 .home {
@@ -282,7 +308,8 @@
     margin: 0;
 
     @include media-query($on-palm) {
-      @include relative-font-size(1.1);
+      @include relative-font-size(1);
+      font-weight: 500;
       margin: 10px 0 0;
     }
   }
@@ -353,7 +380,9 @@
     margin: 10px 10px 0 0;
 
     strong {
+      @include relative-font-size(1);
       display: block;
+      font-weight: 600;
     }
 
     img {
@@ -389,7 +418,7 @@ dl.timeline {
     }
   }
   dd {
-    @include relative-font-size(0.85);
+    @include relative-font-size(0.9);
     margin-bottom: 10px;
   }
 }
@@ -409,5 +438,31 @@ dl.timeline {
 
   .show-sm {
     display: inline-block;
+  }
+}
+
+.quote {
+  position: relative;
+  margin: $spacing-unit 0;
+  padding: 0 $spacing-unit 0 $spacing-unit*1.3;
+  font-style: italic;
+  font-weight: 500;
+  color: #555;
+
+  &.large {
+    @include relative-font-size(1.3);
+
+    &:before {
+      @include relative-font-size(3);
+    }
+  }
+
+  &:before {
+    position: absolute;
+    top: -15px;
+    left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    content: "\“";
+    color: #999;
   }
 }

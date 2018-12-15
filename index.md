@@ -19,7 +19,7 @@ layout: home
 When I'm not working, you'll find me playing guitar, [running][0], surfing,
 snowboarding, or generally spending time outside of my apartment.
 
-The best way to get in touch with me is via [email][1].
+The best way to get in touch with me is via email: [{{site.display_email}}][1]
 
 [0]: https://www.strava.com/athletes/monji
-[1]: mailto:mdolon+com@gmail.com
+[1]: mailto:{{site.email}}
