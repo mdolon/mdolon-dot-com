@@ -5,6 +5,18 @@
   color: rgb(200, 0, 0);
 }
 
+.centered {
+  text-align: center;
+}
+
+.align-left {
+  float: left;
+}
+
+.p-0 {
+  padding: 0;
+}
+
 
 /**
  * Site header
@@ -298,6 +310,10 @@
 
     &.lead {
       @include relative-font-size(1.2);
+
+      @include media-query($on-palm) {
+        @include relative-font-size(1.1);
+      }
     }
   }
 }
@@ -327,14 +343,31 @@
   margin-bottom: $spacing-unit / 2;
 
   .image-caption {
+    @include relative-font-size(0.8);
     display: block;
     color: $grey-color;
-    margin-top: $spacing-unit / 4;
+    margin: 5px 0 10px;
     text-align: center;
   }
 
   &.centered {
     margin: 0 auto;
+  }
+
+  &.align-left {
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  @include media-query($on-palm) {
+    display: block;
+    float: none !important;
+    margin: 20px auto !important;
   }
 }
 
@@ -464,5 +497,56 @@ dl.timeline {
     font-family: Georgia, 'Times New Roman', Times, serif;
     content: "\“";
     color: #999;
+  }
+}
+
+
+.error-page {
+  margin: 10px auto;
+  max-width: 600px;
+
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+}
+
+.strava-widget {
+  float: right;
+
+  @include media-query($on-palm) {
+    float: none;
+    margin: 0 0 10px;
+  }
+}
+
+.run-stats-table {
+  @include relative-font-size(0.8);
+  width: 200px;
+  margin: 0 0 0 20px;
+  float: right;
+
+  strong {
+    text-transform: uppercase;
+  }
+
+  table {
+    margin: 0;
+    border: none;
+
+    tr, td {
+      border: none;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  }
+
+
+  @include media-query($on-palm) {
+    width: 100%;
+    float: none;
+    margin: 20px 0;
   }
 }
