@@ -17,6 +17,31 @@
   padding: 0;
 }
 
+.text-input {
+  border: 1px solid #aaa;
+  padding: 5px;
+}
+
+.button {
+  display: inline-block;
+  color: #fff;
+  font-weight: 600;
+  background: $brand-color;
+  border: 1px solid $brand-color;
+  padding: 5px;
+}
+
+.mailchimp-signup {
+  .mailchimp-form {
+    margin-top: 10px;
+  }
+
+  input {
+    @include relative-font-size(0.8);
+    display: inline-block;
+  }
+}
+
 
 /**
  * Site header
@@ -456,8 +481,16 @@ dl.timeline {
   }
 }
 
-.colophon-dash {
-  color: #aaa;
+.colophon {
+  .colophon-dash {
+    color: #aaa;
+    margin-bottom: 10px;
+  }
+
+  p {
+    @include relative-font-size(0.9);
+    margin-bottom: 5px;
+  }
 }
 
 .show-sm {
