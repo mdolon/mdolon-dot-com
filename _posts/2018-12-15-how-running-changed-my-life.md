@@ -142,7 +142,7 @@ our families are there with us in mind and spirit, especially during those last,
 #### The Question I'm Asked Most Often: Do You Enjoy Running?
 
 There is little doubt in me that running has transformed my life for the better. But I still struggle with answering this
-question on whether or not I actually _enjoy_ running. I love the affect running has had on my life &mdash; the physical
+question on whether or not I actually _enjoy_ running. I love the effect running has had on my life &mdash; the physical
 and mental benefits have exponentially increased my quality of life. And there are certainly moments where
 I feel excitement before going for a run or pleasure during/after it.
 
