@@ -6,7 +6,7 @@ categories: essays
 ---
 
 <p class="lead"><strong class="red">Since 2011, I've run 6,901 miles.</strong> It feels strange saying that,
-considering that running wasn't even part of my vocabuarly for most of my life.</p>
+considering that running wasn't even part of my vocabulary for most of my life.</p>
 
 <table class="run-stats-table">
   <tbody>
