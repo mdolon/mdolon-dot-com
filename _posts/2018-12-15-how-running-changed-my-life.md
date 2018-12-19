@@ -124,17 +124,17 @@ over how long my knees or tendons will last. But the pros far outweigh the cons.
 #### How Running Has Affected Me <u>Psychologically</u>
 
 More than any physical change, running has had a profound and lasting impact on my mental state. I look forward to my morning
-runs _not_ because I enjoy running, but rather for the mental clarity they provide me for the rest of the day.
+runs not because I enjoy running, but rather for the mental clarity they provide me for the rest of the day.
 We're constantly bombarded by stimuli all day (and night) and running, especially outdoors, affords me
 the opportunity to be more aware of my physical being and mentally shift my attention to my goals for the day or week.
 
 Endurance training has also taught me many lessons on how to better handle high stress situations. Running a marathon
 (or any race, really) is stressful, both physically and mentally. Training your mind to tolerate physical discomforts and
 push yourself to keep going is a skill that translates to several walks of life, whether it's studying for a test or starting a
-business. Even signing up for a difficult race and facing an unknown challenge has helped build confidence and increased my overall
-risk tolerance.
+business. Even the act of signing up for a difficult race and facing an unknown challenge has helped build confidence and
+increased my overall risk tolerance.
 
-It wasn't until I ran my first marathon that I understood what (or whom) I looked to for hope in dire situations. I've
+And it wasn't until I ran my first marathon that I understood what (or whom) I looked to for hope in dire situations. I've
 always heard people say things like, 'my mom helped carry me through this' or 'I did that for my spouse,' and
 I have a much better understanding of that now. Running a race may seem like a solo task but for me, and I assume many others,
 our families are there with us in mind and spirit, especially during those last, painful miles.
