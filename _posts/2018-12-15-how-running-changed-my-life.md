@@ -50,7 +50,7 @@ idiot sadomasochists because, well, who in their right mind would do that to the
 Several years later, after moving to Palo Alto for a new job, I had my second taste of endurance running.
 My coworkers and I decided to take advantage of the beautiful California weather one day and headed to a local track.
 As I attempted to run laps, I began having flashbacks of my college days. I would run halfway around, immediately
-get winded and spend the next 15 minutes catching my breath. My coworker, Calvin, noticed my struggles and pulled]
+get winded and spend the next 15 minutes catching my breath. My coworker, Calvin, noticed my struggles and pulled
 me aside to share a simple but profound piece of advice. He said, "Monji: no matter what, never stop
 running. You can go as slow as you want but do not stop moving!" I took his advice to heart and ran four slow
 laps around the track, nonstop.
