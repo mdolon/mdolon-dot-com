@@ -59,7 +59,7 @@ laps around the track, nonstop.
   No matter what, never stop running. You can go as slow as you want but do not stop moving!
 </div>
 
-While the Palo Alto experience instilled a new sense of confidence in my endurance, it wasn't truly put to the test
+While Palo Alto instilled a new sense of confidence in my endurance, it wasn't truly put to the test
 until a couple of years later. I had started a new job and heard that several of my coworkers had signed up for
 a "corporate 5K." I wasn't really sure what a 5k was but I liked the idea of hanging out with my coworkers outside of work,
 so I signed up. On race day, I remember my coworkers discussing their training regimens and having a visceral **'oh crap'**
