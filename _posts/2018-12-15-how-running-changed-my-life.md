@@ -60,7 +60,7 @@ laps around the track, nonstop.
 </div>
 
 While Palo Alto instilled a new sense of confidence in my endurance, it wasn't truly put to the test
-until a couple of years later. I had started a new job and heard that several of my coworkers had signed up for
+until the following year. I had started a new job and heard that several of my coworkers had signed up for
 a "corporate 5K." I wasn't really sure what a 5k was but I liked the idea of hanging out with my coworkers outside of work,
 so I signed up. On race day, I remember my coworkers discussing their training regimens and having a visceral **'oh crap'**
 moment as I began wondering if this was something I could actually do. I shrugged it off and figured that if I ran
