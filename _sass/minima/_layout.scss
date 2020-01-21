@@ -26,8 +26,10 @@
   display: inline-block;
   font-weight: 600;
   background: $brand-color;
-  border: 1px solid $brand-color;
-  padding: 5px;
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
 }
 
 .mailchimp-signup {
@@ -583,4 +585,17 @@ dl.timeline {
     float: none;
     margin: 20px 0;
   }
+}
+
+.scrolling {
+  max-height: 600px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #efefef;
+  overflow: scroll;
+}
+
+.small-image img {
+  max-width: 400px;
+  max-height: 450px;
 }
