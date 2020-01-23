@@ -5,6 +5,43 @@ date:       2018-12-12 16:00:00 -0500
 categories: essays
 ---
 
+<strong>Edit:</strong> The following is more reflective of my morning routine in 2019/2020.
+
+<dl class="timeline">
+  <dt>6:30am</dt>
+  <dd>
+    &bull; Wake up, spend 2 minutes checking texts and weather on phone<br />
+  </dd>
+
+  <dt>7am</dt>
+  <dd>
+    &bull; Go for a morning run of 3-6 miles or do 30 mins of stationary bike/elliptical at the gym (alternating days to reduce impact)
+  </dd>
+
+  <dt>8-8:30am</dt>
+  <dd>
+    &bull; Shower, get dressed<br />
+    &bull; Prepare lunch (usually a sandwich, banana, apple and a pack of trail mix)<br />
+  </dd>
+
+  <dt>8:55am</dt>
+  <dd>
+    &bull; Arrive at WeWork and attempt to snag my table next to the window (it's the best seat on the floor)<br />
+  </dd>
+
+  <dt>9-9:30am</dt>
+  <dd>
+    &bull; Check personal and work emails<br />
+    &bull; Review Google calendar events for the day<br />
+  </dd>
+</dl>
+
+Unless traveling, I've been fairly consistent with this routine during the week.
+
+The rest of the post is rather outdated now but read on if you so desire.
+
+<hr style="margin: 20px 0;" />
+
 As far as productivity hacks go, I've found that having a consistent morning routine
 helps keep me focused throughout the day. During a typical weekday, my morning looks
 something like this:

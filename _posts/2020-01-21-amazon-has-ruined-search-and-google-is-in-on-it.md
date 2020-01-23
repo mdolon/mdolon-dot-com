@@ -44,14 +44,14 @@ Out of curiosity, I took a look at their SimilarWeb page to get a sense of their
   caption="Architecture Lab on SimilarWeb"
   title="Architecture on SimilarWeb" %}
 
-237k visitors per month!! Granted it's just an estimate from SimilarWeb but still, it's very likely that ArchitectureLab.net is getting some serious traffic, of which 85% is from search (thanks, Google!). To be fair, at least the content seems to be original, based on a search of a few sentences pulled at random. This review post is still lacking in depth and could have been easily written based on the information found on the Amazon product page.
+237k visitors per month! Granted it's just an estimate from SimilarWeb but still, it's very likely that ArchitectureLab.net is getting some serious traffic, of which 85% is from search (thanks, Google!). To be fair, at least the content seems to be original, based on a search of a few sentences pulled at random. This review post is still lacking in depth and could have been easily written based on the information found on the Amazon product page.
 
 <h4>Help me out, Google</h4>
 
 Of the results shown on the first page for 'best bicycles under $500' I found that <strong>8 out of 10 websites</strong> only list products found on Amazon using affiliate links. Amazon has a limited selection of bikes in their catalog and many of the more reputable brands are completely left out of these review sites.
 
-How is it that a search giant like Google, with thousands of brilliant minds, can't help me find good products to buy? I think the answer is because it's not in their best interest to do so. They like that most consumers will look at these reviews, click through to Amazon and make their purchase with little hesitation. They, like many of the other tech giants, benefit from an uninformed user base.
+How is it that a search giant like Google, with thousands of brilliant minds, can't help me find good products to buy? I think the answer is because it's not in their best interest to do so. They like that most consumers will look at these reviews, click through to Amazon and make their purchase with little hesitation. Google, like many of the other tech giants, benefits from an uninformed user base.
 
 In the end, after spending weeks of frustration trying to research bicycles, I wound up buying a used bike from a local shop. Google did end up being helpful in the research process but only after carefully crafting my search queries and sifting through dozens of crappy review sites.
 
-Lastly, if you're curious how DuckDuckGo compares, <a href="https://duckduckgo.com/?q=best+bicycles+under+%24500&atb=v136-1&ia=web">the results</a> were (arguably) slightly better. The first result was an Amazon affiliate review site but I did see some of the other, bigger brands mentioned on other results.
+And if you're curious how DuckDuckGo compares, <a href="https://duckduckgo.com/?q=best+bicycles+under+%24500&atb=v136-1&ia=web">the results</a> were (arguably) slightly better. While the first result is still an Amazon affiliate review site, I did see some of the other, bigger brands mentioned on other results.
