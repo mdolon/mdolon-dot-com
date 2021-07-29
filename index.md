@@ -10,7 +10,7 @@ layout: home
   title="Me at a wedding in 2017" -%}
 
 <h4 style="margin:10px 0 15px;">
-  I'm cofounder and CEO of [Measured][3], a consumer health startup backed by Y Combinator and other great investors.
+  I'm cofounder and CEO of <a href="https://trymeasured.com/">Measured</a>, a consumer health startup backed by Y Combinator and other great investors.
 </h4>
 <h4>
   I live in NYC and am passionate about healthcare, education, and leveling the playing field.
@@ -23,4 +23,3 @@ The best way to get in touch with me is via email: [{{site.display_email}}][1]
 
 [0]: https://www.strava.com/athletes/monji
 [1]: mailto:{{site.email}}
-[3]: https://trymeasured.com/
