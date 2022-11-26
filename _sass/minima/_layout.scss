@@ -49,10 +49,11 @@
  */
 .site-header {
   min-height: $spacing-unit * 1.865;
-  margin-top: 20px;
+  margin-top: 10px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
 }
 
 .site-title {
@@ -244,7 +245,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 15px 0 20px;
   flex: 1;
 }
 
@@ -615,4 +616,8 @@ dl.timeline {
 
 h4.subtitle {
   font-weight: 400;
+}
+
+.rounded img {
+  border-radius: 100%;
 }

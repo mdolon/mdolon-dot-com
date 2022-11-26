@@ -6,7 +6,8 @@ layout: home
 ---
 
 {%- include image.html
-  img="assets/img/profile-01.jpg"
+  img="assets/img/mdai1.jpg"
+  class="rounded"
   title="Me at a wedding in 2017" -%}
 
 <h4 style="margin:10px 0 15px;">
